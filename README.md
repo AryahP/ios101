@@ -5,7 +5,7 @@ Submitted by: **Arya Paliwal**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -13,6 +13,11 @@ The following **required** functionality is completed:
 
 - [✓] Users are see a screen with three labels and a button
 - [✓] Tapping the button changes the screen color to a random color
+  
+Extra functionality
+- Tappping one of the buttons changes the text color
+- Using the slider changes the border width of the image
+- Added image 
  
 ## Video Walkthrough
 
@@ -21,6 +26,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Adobe - drop images and display on screen, allow the user to change properties of the image
+
+Misc - Input email and message that directly sends to the email of the owner of the application, zoom in and out using hands (or thumbs)
 
 ## Notes
 
