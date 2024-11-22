@@ -45,10 +45,9 @@ Instagram
 - Create an account that connects to a separate database
   
 Duolingo
-- progress tracker
 - embed audio files
 - process input audio, map to application text, and say whether the text is correct
-- delete all progress
+
   
 Photos App
 - Generate click sound
