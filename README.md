@@ -39,21 +39,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 Adobe 
 - drop images in the application and display on the screen
 - allow the user to change properties of the image via drop-down menus
+  
 Instagram
 - vanish messages with swipe-up
 - Create an account that connects to a separate database
+  
 Duolingo
 - progress tracker
 - embed audio files
 - process input audio, map to application text, and say whether the text is correct
 - delete all progress
+  
 Photos App
 - Generate click sound
 - Add timer before taking a picture
 - Zoom in and out using fingers
   
 Personal App Brainstorming
-
+An app that showcases and creates a well-balanced diet plan for celiac disease individuals. It makes updates to the diet plan as the week goes on
+depending on what the individual has consumed previously. Upload the image of the food and it will display the ingredients or lead to the website
+where the product is made. The app will allow celiac disease individuals to quickly see where different products are located across a region or
+lead them to the website where they can order it. Any blood test results or updates will also change the meal plan. 
 
 ## Notes
 
