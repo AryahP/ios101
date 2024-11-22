@@ -25,6 +25,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/904d61cb7af74463bfa3f28e464adf0b">
+      <p>App Demo Arya - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/904d61cb7af74463bfa3f28e464adf0b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/904d61cb7af74463bfa3f28e464adf0b-f898aa300a5c7556-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 Adobe - drop images and display on screen, allow the user to change properties of the image
 
