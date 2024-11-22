@@ -36,9 +36,24 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   </div>
 
 ## App Brainstorming (Step 4)
-Adobe - drop images and display on screen, allow the user to change properties of the image
+Adobe 
+- drop images in the application and display on the screen
+- allow the user to change properties of the image via drop-down menus
+Instagram
+- vanish messages with swipe-up
+- Create an account that connects to a separate database
+Duolingo
+- progress tracker
+- embed audio files
+- process input audio, map to application text, and say whether the text is correct
+- delete all progress
+Photos App
+- Generate click sound
+- Add timer before taking a picture
+- Zoom in and out using fingers
+  
+Personal App Brainstorming
 
-Misc - Input email and message that directly sends to the email of the owner of the application, zoom in and out using hands (or thumbs)
 
 ## Notes
 
