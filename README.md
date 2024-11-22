@@ -5,7 +5,7 @@ Submitted by: **Arya Paliwal**
 
 **Name of your app** is an app that allows the user to customize the interface: they can change background color, text color, width of border of image and input text
 
-Time spent: 6 hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
