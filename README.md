@@ -1,11 +1,11 @@
 # ios101
-# Prework - *Name of App Here*
+# Prework - *Introduction to Me!*
 
 Submitted by: **Arya Paliwal**
 
-**Name of your app** is an app that... [TODO] 
+**Name of your app** is an app that allows the user to customize the interface: they can change background color, text color, width of border of image and input text
 
-Time spent: 4 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 Extra functionality
 - Tappping one of the buttons changes the text color
 - Using the slider changes the border width of the image
-- Added image 
+- Added image
+- takes text as input and outputs text with user friendly message upon pressing of the button "Enter" 
  
 ## Video Walkthrough
 
@@ -41,11 +42,12 @@ Misc - Input email and message that directly sends to the email of the owner of 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was trying to implement functionality for textField such that a keyboard enter would trigger output; I realized that it would require something other than UI and importing other statements; 
+upon importing Cocoa, the suggested input text, I still could not fix the issue and proceeded to use a button.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Arya Paliwal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
